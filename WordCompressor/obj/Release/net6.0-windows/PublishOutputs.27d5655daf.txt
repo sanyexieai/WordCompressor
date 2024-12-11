@@ -1,0 +1,12 @@
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\WordCompressor.exe
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\WordCompressor.dll
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\WordCompressor.deps.json
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\WordCompressor.runtimeconfig.json
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\WordCompressor.pdb
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\DocumentFormat.OpenXml.dll
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\DocumentFormat.OpenXml.Framework.dll
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\Microsoft.Win32.SystemEvents.dll
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\System.Drawing.Common.dll
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\System.IO.Packaging.dll
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\code\c#\docxzip\WordCompressor\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
