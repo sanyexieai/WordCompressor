@@ -45,7 +45,7 @@
 
 1. 克隆仓库：  
     ```
-    git clone [repository-url]
+    git clone https://github.com/sanyexieai/WordCompressor.git
     ```
 2. 使用 Visual Studio 2022 打开解决方案文件 `WordCompressor.sln`
 
