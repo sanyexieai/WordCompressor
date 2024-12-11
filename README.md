@@ -43,4 +43,32 @@
 
 ## 构建方法
 
-1. 克隆仓库： 
+1. 克隆仓库：  
+    ```
+    git clone [repository-url]
+    ```
+2. 使用 Visual Studio 2022 打开解决方案文件 `WordCompressor.sln`
+
+3. 还原 NuGet 包
+
+4. 编译并运行项目
+
+## 许可证
+
+MIT License
+
+## 贡献
+
+欢迎提交 Issue 和 Pull Request！
+
+## 常见问题
+
+Q: 为什么有些图片没有被压缩？  
+A: 程序目前主要支持常见的图片格式（如 JPG、PNG 等），对于一些特殊格式的图片会自动跳过以避免出错。
+
+Q: 压缩后的文件打不开怎么办？  
+A: 请确保：
+1. 原文件没有被加密或损坏
+2. 压缩过程中没有打开目标文件
+3. 系统已安装 Microsoft Word
+
